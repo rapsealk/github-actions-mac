@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+GitHubActionsTest Extension in GitHubActionsTest, no dependencies
+GitHubActionsTest in GitHubActionsTest, depends on:
+GitHubActionsTest Extension in GitHubActionsTest (explicit)

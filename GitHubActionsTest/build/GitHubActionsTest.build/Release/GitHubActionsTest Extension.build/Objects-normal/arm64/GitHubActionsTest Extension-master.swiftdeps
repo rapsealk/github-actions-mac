@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "db036bcd11932e1a1718408c8f9418a37b703b2ec710cb656042dbd91479ffa9"
+build_start_time: [1658878662, 903963088]
+build_end_time: [1658878663, 163795948]
+inputs:
+  "/Users/rapsealk/Desktop/github-actions-mac/GitHubActionsTest/GitHubActionsTest Extension/SafariWebExtensionHandler.swift": [1658878636, 206593036]

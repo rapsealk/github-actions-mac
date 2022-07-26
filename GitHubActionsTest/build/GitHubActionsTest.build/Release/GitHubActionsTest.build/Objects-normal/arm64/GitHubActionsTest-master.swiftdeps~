@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "a4a403bdde4144706e008de51b2a7e16294521111299e750d5f9535b87782b48"
+build_start_time: [1658878663, 223008155]
+build_end_time: [1658878663, 519987106]
+inputs:
+  "/Users/rapsealk/Desktop/github-actions-mac/GitHubActionsTest/GitHubActionsTest/AppDelegate.swift": [1658878635, 471919059]
+  "/Users/rapsealk/Desktop/github-actions-mac/GitHubActionsTest/GitHubActionsTest/ViewController.swift": [1658878635, 481080055]

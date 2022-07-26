@@ -1,0 +1,15 @@
+name: Build Safari Extension
+
+on:
+  push:
+    branches: [ '*' ]
+  pull_request:
+    branches: [ '*' ]
+
+jobs:
+  build:
+    runs-on: macos-11
+    steps:
+    - uses: actions/checkout@v2
+    - name: Build Safari Extension using xcodebuild
+      run: xcodebuild build -project GitHubActionsTest/GitHubActionsTest.xcodeproj -scheme GitHubActionsTest

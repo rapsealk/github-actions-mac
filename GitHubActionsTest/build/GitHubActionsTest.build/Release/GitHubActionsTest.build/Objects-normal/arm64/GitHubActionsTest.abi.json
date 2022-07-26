@@ -1,0 +1,42 @@
+{
+  "kind": "Root",
+  "name": "TopLevel",
+  "printedName": "TopLevel",
+  "children": [
+    {
+      "kind": "Import",
+      "name": "Cocoa",
+      "printedName": "Cocoa",
+      "declKind": "Import",
+      "moduleName": "GitHubActionsTest",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "SafariServices",
+      "printedName": "SafariServices",
+      "declKind": "Import",
+      "moduleName": "GitHubActionsTest"
+    },
+    {
+      "kind": "Import",
+      "name": "WebKit",
+      "printedName": "WebKit",
+      "declKind": "Import",
+      "moduleName": "GitHubActionsTest"
+    },
+    {
+      "kind": "Import",
+      "name": "Cocoa",
+      "printedName": "Cocoa",
+      "declKind": "Import",
+      "moduleName": "GitHubActionsTest",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    }
+  ],
+  "json_format_version": 6
+}

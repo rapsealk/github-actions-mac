@@ -1,0 +1,25 @@
+{
+  "kind": "Root",
+  "name": "TopLevel",
+  "printedName": "TopLevel",
+  "children": [
+    {
+      "kind": "Import",
+      "name": "SafariServices",
+      "printedName": "SafariServices",
+      "declKind": "Import",
+      "moduleName": "GitHubActionsTest_Extension",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "os.log",
+      "printedName": "os.log",
+      "declKind": "Import",
+      "moduleName": "GitHubActionsTest_Extension"
+    }
+  ],
+  "json_format_version": 6
+}
